@@ -1,11 +1,4 @@
 # Fitting Poisson  distribution
-EXP-2
-
-05-10-2024
-
-NAME:T.K.SHRIVIMAL
-
-REG NO:24003314
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
